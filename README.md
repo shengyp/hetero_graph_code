@@ -26,7 +26,7 @@ IMDB dataset can be found in https://pan.baidu.com/s/1aSTzCsCezW8zd9E0e6KPGg , �
 Douban dataset can be found in https://pan.baidu.com/s/1S_tywZran1mQR1kKQdwNjw , 提取码：xwnt  
 
 ## How to build semantic path and simpath matrix?
-Demo:Graph.py and Sim.py
+Demo: ```Graph.py ``` and ```Sim.py ```
 
 ## Run
 Download preprocessed data and modify data read path,
