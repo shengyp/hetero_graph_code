@@ -1,5 +1,15 @@
-# Attention Guided Simpath Matrix Construction forHeterogeneous Information Network Embedding
+# Attention Guided Simpath Matrix Construction for Heterogeneous Information Network Embedding
 
+
+This repository contains the code to train and evaluate models from the paper:  
+_Learning Cross-modal Embeddings for Cooking Recipes and Food Images_
+
+
+Clone it using:
+
+```shell
+git clone --recursive https://github.com/torralba-lab/im2recipe.git
+```
 
 
 If you find this code useful, please consider citing:
