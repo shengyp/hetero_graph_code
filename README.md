@@ -8,7 +8,7 @@ The source code is based on [HAN](https://github.com/Jhy1993/HAN)
 1. We use the Simpath similarity matrix in a heterogeneous network as the importance weight between neighboring nodes, which is more interpretable than training with a neural network.
 2. After using the Simpath matrix as the importance weight between neighboring nodes, good results can be achieved without the need for multiple heads of attention, which reduces the time required for the model to run and improves the operating efficiency.
 3. Different from HAN, we have optimized the calculation formula of the semantic path weights. In the calculation process, it is not necessary to specify the dimensions of the transformation matrix, which can better obtain the importance of graphs constructed by different semantic paths
-4. 
+4. After using our model to train the weights between semantic paths, if we get new data, use the new data to build a semantic path adjacency matrix, and linearly combine the results with the obtained weights as final embedding for classification and clustering tasks also can get good results. (Note: the new data has not been involved in training)
 
 ## Dataset
 Preprocessed DBLP can be found in https://pan.baidu.com/s/1J15d3egtnnjaYcPg22iIww , 提取码：g4df  
