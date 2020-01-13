@@ -1,4 +1,4 @@
-# im2recipe: Learning Cross-modal Embeddings for Cooking Recipes and Food Images
+# Attention Guided Simpath Matrix Construction forHeterogeneous Information Network Embedding
 
 This repository contains the code to train and evaluate models from the paper:  
 _Learning Cross-modal Embeddings for Cooking Recipes and Food Images_
