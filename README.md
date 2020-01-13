@@ -39,6 +39,9 @@ Run the program file ```simGAT_DBLP4057.py ```
     - nonlinearity = tf.nn.elu
     - l2_coef = 0.001
  ```
+ - During the training process, a feature, adj_matrix and sim_matrix will be allocated for each semantic path, which may increase your memory.
+ - If you use a server, you can specify the serial number of the GPU, which can get training results faster.
+ - If the parameter passed in is different from the default parameter value, training will be given priority over the parameter passed in.
   
 
 ## Testing
