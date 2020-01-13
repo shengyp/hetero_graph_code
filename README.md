@@ -1,5 +1,36 @@
 # Attention Guided Simpath Matrix Construction forHeterogeneous Information Network Embedding
 
+
+
+If you find this code useful, please consider citing:
+
+```
+@inproceedings{salvador2017learning,
+  title={Attention Guided Simpath Matrix Construction forHeterogeneous Information Network Embedding},
+  author={Salvador, Amaia and Hynes, Nicholas and Aytar, Yusuf and Marin, Javier and 
+          Ofli, Ferda and Weber, Ingmar and Torralba, Antonio},
+  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+  year={2020}
+}
+```
+
+## Contents
+1. [Installation](#installation)
+2. [Recipe1M Dataset](#recipe1m-dataset)
+3. [Vision models](#vision-models)
+4. [Out-of-the-box training](#out-of-the-box-training)
+5. [Prepare training data](#prepare-training-data)
+6. [Training](#training)
+7. [Testing](#testing)
+8. [Visualization](#visualization)
+9. [Pretrained model](#pretrained-model)
+10. [Contact](#contact)
+
+
+## Installation
+
+
+
 ## SimGAT
 The source code of Attention Guided Simpath Matrix Construction forHeterogeneous Information Network Embedding
 The source code is based on [HAN](https://github.com/Jhy1993/HAN)
