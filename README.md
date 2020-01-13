@@ -1,57 +1,9 @@
 # Attention Guided Simpath Matrix Construction forHeterogeneous Information Network Embedding
 
-## Contents
-1. [Installation](#installation)
-2. [Recipe1M Dataset](#recipe1m-dataset)
-3. [Vision models](#vision-models)
-4. [Out-of-the-box training](#out-of-the-box-training)
-5. [Prepare training data](#prepare-training-data)
-6. [Training](#training)
-7. [Testing](#testing)
-8. [Visualization](#visualization)
-9. [Pretrained model](#pretrained-model)
-10. [Contact](#contact)
+## SimGAT
+The source code of Attention Guided Simpath Matrix Construction forHeterogeneous Information Network Embedding
+The source code is based on [HAN](https://github.com/Jhy1993/HAN)
 
-## Installation
-
-Install [Torch](http://torch.ch/docs/getting-started.html):
-```
-git clone https://github.com/torch/distro.git ~/torch --recursive
-cd ~/torch; bash install-deps;
-./install.sh
-```
-
-Install the following packages:
-
-```
-luarocks install torch
-luarocks install nn
-luarocks install image
-luarocks install optim
-luarocks install rnn
-luarocks install loadcaffe
-luarocks install moonscript
-```
-
-Install CUDA and cudnn. Then run:
-
-```
-luarocks install cutorch
-luarocks install cunn
-luarocks install cudnn
-```
-
-A custom fork of torch-hdf5 with string support is needed:
-
-```
-cd ~/torch/extra
-git clone https://github.com/nhynes/torch-hdf5.git
-cd torch-hdf5
-git checkout chars2
-luarocks build hdf5-0-0.rockspec
-```
-
-We use Python2.7 for data processing. Install dependencies with ```pip install -r requirements.txt```
 
 ## Recipe1M Dataset
 
