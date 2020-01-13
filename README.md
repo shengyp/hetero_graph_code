@@ -23,6 +23,13 @@ Demo:Graph.py and Sim.py
 Download preprocessed data and modify data read path,
 Run the program file ```simGAT_DBLP4057.py ```
 
+## Training
+
+## Testing
+ -  Extract features from test set. They will be saved in ```./premodel ```.
+ - After feature extraction, call the function in ```jhyexps.py ``` to calculate the evaluation index of classification (F1-micro, Fi-macro) and clustering (NMI, ARI, FMI).
+ - There is no need to deal with the above, you can directly get the running result of the evaluation index by calling the running function.
+
 ## Visualization
 
 We provide a script to visualize the clustering effect of the final embedding in ```./visualization/Cluster_visualization.ipynb ```. And provided some samples for the program to run: test1.npy and test3.npy
