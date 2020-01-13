@@ -1,26 +1,5 @@
 # Attention Guided Simpath Matrix Construction forHeterogeneous Information Network Embedding
 
-This repository contains the code to train and evaluate models from the paper:  
-_Learning Cross-modal Embeddings for Cooking Recipes and Food Images_
-
-Clone it using:
-
-```shell
-git clone --recursive https://github.com/torralba-lab/im2recipe.git
-```
-
-If you find this code useful, please consider citing:
-
-```
-@inproceedings{salvador2017learning,
-  title={Learning Cross-modal Embeddings for Cooking Recipes and Food Images},
-  author={Salvador, Amaia and Hynes, Nicholas and Aytar, Yusuf and Marin, Javier and 
-          Ofli, Ferda and Weber, Ingmar and Torralba, Antonio},
-  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
-  year={2017}
-}
-```
-
 ## Contents
 1. [Installation](#installation)
 2. [Recipe1M Dataset](#recipe1m-dataset)
