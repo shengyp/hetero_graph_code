@@ -4,10 +4,11 @@
 The source code of Attention Guided Simpath Matrix Construction forHeterogeneous Information Network Embedding
 The source code is based on [HAN](https://github.com/Jhy1993/HAN)
 
+## How to build semantic path and simpath matrix?
+Demo:Graph.py and Sim.py
 
-## Recipe1M Dataset
-
-Our Recipe1M dataset is available for download [here](http://im2recipe.csail.mit.edu/dataset/download).
+## Dataset
+Preprocessed DBLP can be found in https://pan.baidu.com/s/1J15d3egtnnjaYcPg22iIww, 提取码：g4df
 
 ## Vision models
 
