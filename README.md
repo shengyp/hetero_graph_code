@@ -14,7 +14,7 @@ If you find this code useful, please consider citing:
 
 ```
 @inproceedings{salvador2017learning,
-  title={Learning Cross-modal Embeddings for Cooking Recipes and Food Images},
+  title={Learning Cross-modal Embeddings for },
   author={Salvador, Amaia and Hynes, Nicholas and Aytar, Yusuf and Marin, Javier and 
           Ofli, Ferda and Weber, Ingmar and Torralba, Antonio},
   booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
@@ -36,7 +36,7 @@ If you find this code useful, please consider citing:
 
 ## Installation
 
-Install [Torch](http://torch.ch/docs/getting-started.html):
+Install [Tensorflow](https://www.tensorflow.org/install/):
 ```
 git clone https://github.com/torch/distro.git ~/torch --recursive
 cd ~/torch; bash install-deps;
