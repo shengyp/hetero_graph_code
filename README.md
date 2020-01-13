@@ -12,8 +12,7 @@ Preprocessed DBLP can be found in https://pan.baidu.com/s/1J15d3egtnnjaYcPg22iIw
 
 ## Visualization
 
-We provide a script to visualize top-1 im2recipe examples in ```./pyscripts/vis.py ```. It will save figures under ```./data/figs/```.
-
+We provide a script to visualize the clustering effect of the final embedding in ```./visualization/Cluster_visualization.ipynb ```. And provided some samples for the program to run: test1.npy and test3.npy
 
 ## Contact
 
