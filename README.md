@@ -16,7 +16,7 @@ Here we provide the implementation of a SimGAT layer in TensorFlow, along with a
  - utils/ contains:  
      - Similarity matrix is used as node weight to calculate(layers.py);
      - preprocessing subroutines (process.py);
- - visualization/ Clustering visualization results(Cluster_visualization.ipynb)
+ - visualization/ Clustering visualization results(Cluster_visualization.ipynb);
  - premodel/ Model and final embedding save location.
 
 ## Dataset
@@ -34,8 +34,12 @@ Run the program file ```simGAT_DBLP4057.py ```
 
 ## Training
  - Train the model with:
- ```-dataset /dataDBLP/features.npy, one_hot_labels.npy, small_adj_data.npy, test_idx.npy, train_idx.npy
-    -```
+ ```- dataset /dataDBLP/features.npy, one_hot_labels.npy, small_adj_data.npy, test_idx.npy, train_idx.npy
+    - lr = 0.003 
+    - nonlinearity = tf.nn.elu
+    - l2_coef = 0.001
+ ```
+  
 
 ## Testing
  -  Extract features from test set. They will be saved in ```./premodel ```.
