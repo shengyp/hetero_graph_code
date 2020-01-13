@@ -12,9 +12,9 @@ The source code is based on [HAN](https://github.com/Jhy1993/HAN)
 
 ## Dataset
 Preprocessed DBLP can be found in https://pan.baidu.com/s/1J15d3egtnnjaYcPg22iIww , 提取码：g4df  
-HUAWEI dataset can be found in https://pan.baidu.com/s/1cg_xqSbPZrPlY_ekM9WMNA ,提取码：kpq8  
-IMDB dataset can be found in https://pan.baidu.com/s/1aSTzCsCezW8zd9E0e6KPGg ,提取码：nmpe  
-Douban dataset can be found in https://pan.baidu.com/s/1S_tywZran1mQR1kKQdwNjw ,提取码：xwnt  
+HUAWEI dataset can be found in https://pan.baidu.com/s/1cg_xqSbPZrPlY_ekM9WMNA , 提取码：kpq8  
+IMDB dataset can be found in https://pan.baidu.com/s/1aSTzCsCezW8zd9E0e6KPGg , 提取码：nmpe  
+Douban dataset can be found in https://pan.baidu.com/s/1S_tywZran1mQR1kKQdwNjw , 提取码：xwnt  
 
 ## How to build semantic path and simpath matrix?
 Demo:Graph.py and Sim.py
