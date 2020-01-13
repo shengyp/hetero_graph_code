@@ -14,8 +14,8 @@ The source code is based on [HAN](https://github.com/Jhy1993/HAN)
 Here we provide the implementation of a SimGAT layer in TensorFlow, along with a minimal execution example (on the DBLP dataset). The repository is organised as follows:  
  - models/ contains the implementation of the SimGAT network (gat.py);
  - utils/ contains:  
-  - Similarity matrix is used as node weight to calculate(layers.py);
-  - preprocessing subroutines (process.py);
+     - Similarity matrix is used as node weight to calculate(layers.py);
+     - preprocessing subroutines (process.py);
  - visualization/ Clustering visualization results(Cluster_visualization.ipynb)
  - premodel/ Model and final embedding save location.
 
