@@ -4,11 +4,20 @@
 The source code of Attention Guided Simpath Matrix Construction forHeterogeneous Information Network Embedding
 The source code is based on [HAN](https://github.com/Jhy1993/HAN)
 
-## How to build semantic path and simpath matrix?
-Demo:Graph.py and Sim.py
+## Advantage
+1. We use the Simpath similarity matrix in a heterogeneous network as the importance weight between neighboring nodes, which is more interpretable than training with a neural network.
+2. After using the Simpath matrix as the importance weight between neighboring nodes, good results can be achieved without the need for multiple heads of attention, which reduces the time required for the model to run and improves the operating efficiency.
+3. Different from HAN, we have optimized the calculation formula of the semantic path weights. In the calculation process, it is not necessary to specify the dimensions of the transformation matrix, which can better obtain the importance of graphs constructed by different semantic paths
+4. 
 
 ## Dataset
-Preprocessed DBLP can be found in https://pan.baidu.com/s/1J15d3egtnnjaYcPg22iIww, 提取码：g4df
+Preprocessed DBLP can be found in https://pan.baidu.com/s/1J15d3egtnnjaYcPg22iIww , 提取码：g4df
+HUAWEI dataset can be found in https://pan.baidu.com/s/1cg_xqSbPZrPlY_ekM9WMNA ,提取码：kpq8
+IMDB dataset can be found in https://pan.baidu.com/s/1aSTzCsCezW8zd9E0e6KPGg ,提取码：nmpe
+Douban dataset can be found in https://pan.baidu.com/s/1S_tywZran1mQR1kKQdwNjw ,提取码：xwnt
+
+## How to build semantic path and simpath matrix?
+Demo:Graph.py and Sim.py
 
 ## Run
 Download preprocessed data and modify data read path,
