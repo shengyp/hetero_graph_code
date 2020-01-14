@@ -1,4 +1,4 @@
-# Attention Guided Simpath Matrix Construction forHeterogeneous Information Network Embedding
+# A Semantic Path Guided Model for Heterogeneous Information Network Embedding
 
 
 This repository contains the code to train and evaluate models from the paper:  
