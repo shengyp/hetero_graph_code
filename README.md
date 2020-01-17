@@ -10,17 +10,17 @@ Clone it using:
 git clone --recursive https://github.com/torralba-lab/im2recipe.git
 ```
 
-If you find this code useful, please consider citing:
+%If you find this code useful, please consider citing:
 
-```
-@inproceedings{salvador2017learning,
-  title={Learning Cross-modal Embeddings for },
-  author={Salvador, Amaia and Hynes, Nicholas and Aytar, Yusuf and Marin, Javier and 
-          Ofli, Ferda and Weber, Ingmar and Torralba, Antonio},
-  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
-  year={2017}
-}
-```
+%```
+%@inproceedings{salvador2017learning,
+%  title={Learning Cross-modal Embeddings for },
+%  author={Salvador, Amaia and Hynes, Nicholas and Aytar, Yusuf and Marin, Javier and 
+%          Ofli, Ferda and Weber, Ingmar and Torralba, Antonio},
+%  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+%  year={2017}
+%}
+%```
 
 ## Contents
 1. [Installation](#installation)
