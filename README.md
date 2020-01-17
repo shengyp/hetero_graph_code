@@ -34,7 +34,7 @@ If you find this code useful, please consider citing:
 3. [dvantage](##dvantage)
 4. [Overview](##Overview)
 5. [Dataset](##Dataset)
-6. [How to build semantic path and simpath matrix??](##How?)
+6. [How to build semantic path and simpath matrix?](##How to build semantic path and simpath matrix??)
 7. [Run](##Run)
 8. [Training](##Training)
 9. [Testing](##Testing)
