@@ -1,3 +1,6 @@
+
+@[toc]
+
 # A Semantic Path Guided Model for Heterogeneous Information Network Embedding
 
 
@@ -25,7 +28,7 @@ If you find this code useful, please consider citing:
 ```
 -->
 
-@[toc]
+
 
 ## Contents
 
