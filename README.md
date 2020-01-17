@@ -29,7 +29,7 @@ If you find this code useful, please consider citing:
 
 ## Contents
 
-1. [Requirements](##Requirements)
+1. [Requirements](## Requirements)
 2. [SimGAT](##SimGAT)
 3. [dvantage](##dvantage)
 4. [Overview](##Overview)
