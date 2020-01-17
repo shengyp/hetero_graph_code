@@ -26,7 +26,8 @@ If you find this code useful, please consider citing:
 -->
 
 ## Contents
-1. [Installation](#installation)
+@[toc]
+1. [Requirements](##Requirements)
 2. [SimGAT](##SimGAT)
 3. [dvantage](##dvantage)
 4. [Overview](##Overview)
@@ -38,14 +39,11 @@ If you find this code useful, please consider citing:
 10. [Visualization](##Visualization)
 11. [Contact](##Contact)
 
-## Installation
+## Requirements
 
-Install [Tensorflow](https://www.tensorflow.org/install/):
-```
-git clone https://github.com/torch/distro.git ~/torch --recursive
-cd ~/torch; bash install-deps;
-./install.sh
-```
+ - python 3.7.0
+ - numpy 1.16.2
+ - tensorflow 1.13.1
 
 ## SimGAT
 The source code of Attention Guided Simpath Matrix Construction forHeterogeneous Information Network Embedding
