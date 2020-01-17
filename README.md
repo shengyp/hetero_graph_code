@@ -46,6 +46,7 @@ If you find this code useful, please consider citing:
  - python 3.7.0
  - numpy 1.16.2
  - tensorflow 1.13.1
+ - and some other libraries...
 
 ## SimGAT
 The source code of Attention Guided Simpath Matrix Construction forHeterogeneous Information Network Embedding
