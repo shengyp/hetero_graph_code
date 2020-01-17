@@ -1,6 +1,3 @@
-
-@[toc]
-
 # A Semantic Path Guided Model for Heterogeneous Information Network Embedding
 
 
