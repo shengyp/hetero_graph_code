@@ -7,7 +7,7 @@ _Learning Cross-modal Embeddings for Cooking Recipes and Food Images_
 Clone it using:
 
 ```shell
-git clone --recursive https://github.com/torralba-lab/im2recipe.git
+https://github.com/shengyp/hetero_graph_code/archive/master.zip
 ```
 
 <!-- 
