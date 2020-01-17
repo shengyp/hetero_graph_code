@@ -10,9 +10,10 @@ Clone it using:
 git clone --recursive https://github.com/torralba-lab/im2recipe.git
 ```
 
-%If you find this code useful, please consider citing:
-
 <!-- 
+If you find this code useful, please consider citing:
+
+
 ```
 @inproceedings{salvador2017learning,
   title={Learning Cross-modal Embeddings for },
