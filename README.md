@@ -25,8 +25,10 @@ If you find this code useful, please consider citing:
 ```
 -->
 
-## Contents
 @[toc]
+
+## Contents
+
 1. [Requirements](##Requirements)
 2. [SimGAT](##SimGAT)
 3. [dvantage](##dvantage)
