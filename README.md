@@ -29,12 +29,12 @@ If you find this code useful, please consider citing:
 
 ## Contents
 
-1. [Requirements](## Requirements)
+1. [Requirements](##Requirements)
 2. [SimGAT](##SimGAT)
 3. [dvantage](##dvantage)
 4. [Overview](##Overview)
 5. [Dataset](##Dataset)
-6. [How_to_build_semantic_path_and_simpath_matrix?](##How to build semantic path and simpath matrix?)
+6. [How?](##How?)
 7. [Run](##Run)
 8. [Training](##Training)
 9. [Testing](##Testing)
