@@ -2,6 +2,7 @@
 
 
 This repository contains the code to train and evaluate models from the paper:  
+_A Semantic Path Guided Model for Heterogeneous Information Network Embedding_
 
 Clone it using:
 
