@@ -24,15 +24,16 @@ If you find this code useful, please consider citing:
 
 ## Contents
 1. [Installation](#installation)
-2. [Recipe1M Dataset](#recipe1m-dataset)
-3. [Vision models](#vision-models)
-4. [Out-of-the-box training](#out-of-the-box-training)
-5. [Prepare training data](#prepare-training-data)
-6. [Training](#training)
-7. [Testing](#testing)
-8. [Visualization](#visualization)
-9. [Pretrained model](#pretrained-model)
-10. [Contact](#contact)
+2. [SimGAT](##SimGAT)
+3. [dvantage](##dvantage)
+4. [Overview](##Overview)
+5. [Dataset](##Dataset)
+6. [How to build semantic path and simpath matrix](##How to build semantic path and simpath matrix)
+7. [Run](##Run)
+8. [Training](##Training)
+9. [Testing](##Testing)
+10. [Visualization](##Visualization)
+11. [Contact](##Contact)
 
 ## Installation
 
@@ -73,7 +74,7 @@ Douban dataset can be found in https://pan.baidu.com/s/1S_tywZran1mQR1kKQdwNjw ,
 
 
 ## How to build semantic path and simpath matrix?
-Demo: ```Graph.py ``` and ```Sim.py ```
+Demo: ```data_deal.py ``` and ```meta-pathCreate.py ```
 
 
 ## Run
